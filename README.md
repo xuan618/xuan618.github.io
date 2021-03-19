@@ -1,6 +1,6 @@
 # 作業四 40717034 李怡萱   
-[Omnixri]{https://omnixri.blogspot.com)   
-https://omnixri.blogspot.com   
+[Omnixri]{https://xuan618.github.io/)   
+https://xuan618.github.io/   
 
 ![asdafdsgerg](https://github.com/xuan618/xuan618.github.io/blob/main/A.jpg)
 
