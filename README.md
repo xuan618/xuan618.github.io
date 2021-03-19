@@ -1,3 +1,9 @@
+# 作業四 40717034 李怡萱   
+[Omnixri]{https://omnixri.blogspot.com)   
+https://omnixri.blogspot.com   
+
+![asdafdsgerg](https://github.com/xuan618/xuan618.github.io/blob/main/A.jpg)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/xuan618/xuan618.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
