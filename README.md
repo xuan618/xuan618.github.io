@@ -2,7 +2,7 @@
 [Omnixri](https://xuan618.github.io/)   
 https://xuan618.github.io/   
 
-![asdafdsgerg](https://github.com/xuan618/xuan618.github.io/blob/main/A.jpg)
+![asdafdsgerg](https://raw.githubusercontent.com/xuan618/xuan618.github.io/main/A.jpg)
 
 ## Welcome to GitHub Pages
 
